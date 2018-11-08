@@ -3,7 +3,6 @@
     "description": "redis-project",
     "type": "application",
     "require": {
-
     },
     "autoload": {
         "psr-0": {
