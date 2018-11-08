@@ -1,0 +1,13 @@
+{
+    "name": "Sam-Burns/redis-project",
+    "description": "redis-project",
+    "type": "application",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
